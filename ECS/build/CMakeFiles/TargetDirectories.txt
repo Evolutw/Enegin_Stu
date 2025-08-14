@@ -1,0 +1,3 @@
+/home/wx/resume/git/Enegin_Stu/ECS/build/CMakeFiles/MyCppProject.dir
+/home/wx/resume/git/Enegin_Stu/ECS/build/CMakeFiles/edit_cache.dir
+/home/wx/resume/git/Enegin_Stu/ECS/build/CMakeFiles/rebuild_cache.dir

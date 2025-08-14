@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/wx/resume/git/Enegin_Stu/ECS/build",
+  "command": "/usr/bin/g++  -I/home/wx/resume/git/Enegin_Stu/ECS/include -g -std=gnu++17 -o CMakeFiles/MyCppProject.dir/src/main.cpp.o -c /home/wx/resume/git/Enegin_Stu/ECS/src/main.cpp",
+  "file": "/home/wx/resume/git/Enegin_Stu/ECS/src/main.cpp",
+  "output": "CMakeFiles/MyCppProject.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/wx/resume/git/Enegin_Stu/ECS/build",
+  "command": "/usr/bin/g++  -I/home/wx/resume/git/Enegin_Stu/ECS/include -g -std=gnu++17 -o CMakeFiles/MyCppProject.dir/src/utils.cpp.o -c /home/wx/resume/git/Enegin_Stu/ECS/src/utils.cpp",
+  "file": "/home/wx/resume/git/Enegin_Stu/ECS/src/utils.cpp",
+  "output": "CMakeFiles/MyCppProject.dir/src/utils.cpp.o"
+}
+]
